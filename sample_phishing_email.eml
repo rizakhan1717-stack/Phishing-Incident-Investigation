@@ -1,0 +1,24 @@
+From: "PayPal Security Team" <security-update@paypa1-support.example>
+To: finance.employee@example.org
+Subject: Urgent: Your PayPal Account Has Been Limited
+Date: Tue, 16 Jun 2026 10:24:00 +0400
+Message-ID: <202606161024.paypal-security@paypa1-support.example>
+Reply-To: verification-team@paypa1-support.example
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Received: from mail.paypa1-support.example (mail.paypa1-support.example [203.0.113.45])
+    by mail.example.org with ESMTPS id ABC123
+    for <finance.employee@example.org>; Tue, 16 Jun 2026 10:24:00 +0400
+
+Dear Customer,
+
+Your PayPal account has been temporarily limited due to unusual activity.
+
+To avoid permanent suspension, verify your account immediately using the link below:
+
+http://paypal-security-verification-login.example/login
+
+Failure to complete verification within 24 hours may result in permanent account suspension.
+
+Regards,
+PayPal Security Team

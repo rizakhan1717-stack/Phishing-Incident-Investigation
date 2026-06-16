@@ -1,0 +1,7 @@
+Time,Event,Analyst Notes
+10:24,Suspicious email received,Email claims PayPal account limitation
+10:31,User reports email to SOC,No link click confirmed in this scenario
+10:37,SOC triage begins,"Header, sender, subject, and URL reviewed"
+10:45,IOCs extracted,"Domain, URL, sender, reply-to collected"
+10:52,MITRE mapping completed,Mapped to phishing and user execution
+11:05,Containment recommendations issued,Block domain and search mail logs

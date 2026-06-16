@@ -1,0 +1,7 @@
+IOC_Type,Indicator,Confidence,Risk,Notes
+Sender Email,security-update@paypa1-support.example,High,High,Impersonates PayPal support
+Reply-To Email,verification-team@paypa1-support.example,High,High,Reply-to uses suspicious domain
+Sender Domain,paypa1-support.example,High,High,Typosquatting: number 1 used instead of letter l
+URL,hxxp://paypal-security-verification-login.example/login,High,Critical,Likely credential harvesting page
+IP Address,203.0.113.45,Medium,Medium,Documentation/test IP range used in simulated header
+Subject,Urgent: Your PayPal Account Has Been Limited,High,Medium,Urgency-based social engineering

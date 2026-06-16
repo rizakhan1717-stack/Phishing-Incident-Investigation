@@ -1,0 +1,5 @@
+Technique_ID,Technique,Tactic,Evidence,Relevance
+T1566,Phishing,Initial Access,Suspicious email sent to employee,Email is the delivery method
+T1204,User Execution,Execution,User is asked to click verification link,Attack relies on user interaction
+T1583.001,Acquire Infrastructure: Domains,Resource Development,Lookalike domain used,Attacker-controlled infrastructure is implied
+T1656,Impersonation,Defense Evasion,Email impersonates PayPal Security Team,Brand impersonation increases credibility
